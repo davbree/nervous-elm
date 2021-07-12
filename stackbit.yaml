@@ -8,7 +8,7 @@ uploadDir: images
 dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
-nodeVersion: 14
+nodeVersion: 12
 logicFields:
   - blog_feed_section.recent_count
   - blog_feed_section.background_image_opacity
