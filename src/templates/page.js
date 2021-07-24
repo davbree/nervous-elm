@@ -15,6 +15,7 @@ export const query = graphql`
   }
 `;
 
+
 export default class Page extends React.Component {
     render() {
         return (
